@@ -3,10 +3,6 @@
 RAGChat is a chatbot application that leverages Retrieval Augmented Generation (RAG) by processing PDF documents, creating a vector store from their content, and then using a language model to generate context-aware responses. All the code is contained in a single file for simplicity.
 
 ---
-```markdown
-## PDF RAG Chatbot
-
-A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on PDF documents. This project uses LangChain, OpenAI's embedding and language models, and ChromaDB for vector storage to create an interactive chatbot that references specific information from your PDF files.
 
 ## Overview
 
